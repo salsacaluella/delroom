@@ -80,8 +80,7 @@ This flow covers the process when a user decides to check out of the kost.
 - System performs a **smart lock data audit**.
 - Room usage logs and history are reviewed.
 - Final approval is given.
-- All data is archived.
-
+- All data is archive
 ---
 
 ## 📝 Operational Notes
