@@ -1,6 +1,6 @@
 # DelRooms Project Structure Guide
 
-This document outlines the folder and file architecture for the DelRooms application, developed using Lean Agile methodology. The structure is optimized for a three-person development team with a target project duration of three months, including software testing.
+This document outlines the folder and file architecture for the DelRooms application, developed using Lean Agile methodology.
 
 ---
 
